@@ -1,1 +1,4 @@
-<?php echo "Contacto"; ?>
+<?php echo "Contacto"; 
+
+	// Proceso el contacto
+?>
